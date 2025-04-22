@@ -29,7 +29,7 @@
   <img alt="Tomcat" src="https://img.shields.io/badge/-Tomcat-%23F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" />
 </p>
 
-<h3>Check out these:</h3>
+<h3>Check these out:</h3>
 <ul>
  <li><a href="abc0"><i>abc0</i></a></li>
   <li><a href="abc1"><i>abc1</i></a></li>
