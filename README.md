@@ -20,7 +20,7 @@
     <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-%23F7B93E?style=flat-square&logo=tailwind&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
   <img alt="Web Socket" src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=websockets&logoColor=white" />
