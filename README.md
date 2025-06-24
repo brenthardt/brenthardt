@@ -41,8 +41,11 @@
     <img src="https://img.shields.io/badge/Donate%20to%20Palestine-FF4D4D?style=for-the-badge&logo=cashapp&labelColor=555" alt="Donate to Palestine">
   </a>
 </p>
-I do not need your money, believe me, just press button below.
+<div>
+  
+I do not need your money, believe me, just press button below.  <br>
 <a href="https://www.buymeacoffee.com/brenthardt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</div>
 
 
 <h3>My GitHub contributions summary</h3>
