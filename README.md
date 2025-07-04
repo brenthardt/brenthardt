@@ -30,8 +30,8 @@
 
 <h3>Check these out:</h3>
 <ul>
- <li><a href="abc0"><i>abc0</i></a></li>
-  <li><a href="abc1"><i>abc1</i></a></li>
+ <li><a href="abc0"><i>https://github.com/brenthardt/Backend-book-search-with-speech-recognition-java-h2database.git</i></a></li>
+  <li><a href="abc1"><i>https://github.com/brenthardt/book-search-with-speech-recognition-react-javascript.git</i></a></li>
   <li><a href="abc2"><i>abc2</i></a></li>
 </ul>
 
