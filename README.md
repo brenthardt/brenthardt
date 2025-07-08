@@ -31,7 +31,7 @@
 <h3>Check these out:</h3>
 <ul>
  <li><a href="https://github.com/brenthardt/Backend-book-search-with-speech-recognition-java-h2database.git"><i>book search with speech recognition backend</i></a></li>
-  <li><a href="https://github.com/brenthardt/book-search-with-speech-recognition-react-javascript.git"><i>book search with speech recognition backend</i></a></li>
+  <li><a href="https://github.com/brenthardt/book-search-with-speech-recognition-react-javascript.git"><i>book search with speech recognition frontend</i></a></li>
   <li><a href="https://github.com/brenthardt/file-converter.git"><i>file converter</i></a></li>
 </ul>
 
