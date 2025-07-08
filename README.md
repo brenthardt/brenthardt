@@ -30,9 +30,9 @@
 
 <h3>Check these out:</h3>
 <ul>
- <li><a href="abc0"><i>https://github.com/brenthardt/Backend-book-search-with-speech-recognition-java-h2database.git</i></a></li>
-  <li><a href="abc1"><i>https://github.com/brenthardt/book-search-with-speech-recognition-react-javascript.git</i></a></li>
-  <li><a href="abc2"><i>https://github.com/brenthardt/file-converter.git</i></a></li>
+ <li><a href="https://github.com/brenthardt/Backend-book-search-with-speech-recognition-java-h2database.git"><i>book search with speech recognition backend</i></a></li>
+  <li><a href="https://github.com/brenthardt/book-search-with-speech-recognition-react-javascript.git"><i>book search with speech recognition backend</i></a></li>
+  <li><a href="https://github.com/brenthardt/file-converter.git"><i>file converter</i></a></li>
 </ul>
 
 <p>If you think I deserve nothing then go, donate to <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ps.svg" width="24"> Palastine!</p>
