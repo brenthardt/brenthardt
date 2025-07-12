@@ -1,5 +1,14 @@
-## Hi there 👋 I'm Brenthardt.
+## Hi there 👋 I'm Brenthardt. 
 ![](https://komarev.com/ghpvc/?username=brenthardt&color=%2300FF00)
+
+
+<h3>
+  
+  <a href="https://www.linkedin.com/in/baxrom-kobilov-216299372" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</h3>
+
 <h3>My specs:</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -50,6 +59,33 @@ I do not need your money, believe me, just press button below.  <br>
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brenthardt&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brenthardt&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brenthardt&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="GitHub Stats" />
+</p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=brenthardt&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+ Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenthardt&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Book Search with Speech Recognition</h3>
+      <p>Full-stack application with voice search capability</p>
+      <a href="https://github.com/brenthardt/Backend-book-search-with-speech-recognition-java-h2database.git" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenthardt&repo=Backend-book-search-with-speech-recognition-java-h2database&theme=dark" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>File Converter</h3>
+      <p>Universal file conversion tool</p>
+      <a href="https://github.com/brenthardt/file-converter.git" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenthardt&repo=file-converter&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
