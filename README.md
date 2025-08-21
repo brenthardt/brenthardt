@@ -22,7 +22,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -31,7 +30,6 @@
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-%23F7B93E?style=flat-square&logo=tailwind&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
-  <img alt="Web Socket" src="https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=websockets&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-C60F16?style=flat-square&logo=apache-maven&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-%23D22128?style=flat-square&logo=apache&logoColor=white" />
   <img alt="Tomcat" src="https://img.shields.io/badge/-Tomcat-%23F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" />
