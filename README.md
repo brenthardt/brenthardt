@@ -40,7 +40,7 @@
 <h3>Check these out:</h3>
 <ul>
  <li><a href="https://github.com/brenthardt/Backend-book-search-with-speech-recognition-java-h2database.git"><i>book search with speech recognition backend</i></a></li>
-  <li><a href="https://github.com/brenthardt/book-search-with-speech-recognition-react-javascript.git"><i>book search with speech recognition frontend</i></a></li>
+  <li><a href="https://github.com/brenthardt/e-commerce-store-backend.git"><i>e-commerce-store website</i></a></li>
   <li><a href="https://github.com/brenthardt/file-converter.git"><i>file converter</i></a></li>
 </ul>
 
@@ -52,7 +52,7 @@
 </p>
 <div>
   
-I do not need your money, believe me, just press button below.  <br>
+I do not need your money, believe me, just press the button below.  <br>
 <a href="https://www.buymeacoffee.com/brenthardt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
 
